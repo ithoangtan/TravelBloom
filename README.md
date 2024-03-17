@@ -6,3 +6,5 @@ To launch the lab, check the box below indicating "I agree to use this app respo
 This lab uses IBM Skills Network Labs (SN Labs), which is a virtual lab environment used in this course. Upon clicking "Launch App" your Username and Email will be passed to Skills Network Labs and will only be used for communicating important information to enhance your learning experience, in accordance with IBM Skills Network Privacy policy.
 
 By ithoangtan
+
+URL: https://ithoangtan.github.io/TravelBloom/
